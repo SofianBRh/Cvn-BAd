@@ -1,0 +1,3 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 21 10:27:05.754275 2022] [mpm_event:notice] [pid 10516:tid 140658634575168] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Feb 21 10:27:05.754507 2022] [core:notice] [pid 10516:tid 140658634575168] AH00094: Command line: '/home/nejmaaidoun/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/nejmaaidoun/.config/Local/run/2hH7hcvYi/conf/apache/apache2.conf'
